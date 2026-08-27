@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there im Heowoiblerie, minecraft newbie engineer and gamer❤️🙋
+🚀 Projects
 
-<!--
-**HeowoiblerieMC/HeowoiblerieMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌪️ VortexMC network
+🌐 Web Development (making hard)
+🐙 GitHub Projects
+💻 Tech Stack
 
-Here are some ideas to get you started:
+HTML
+CSS
+JavaScript
+Git
+Minecraft Server Management
+"Especially I like Python🫶"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Goals
+
+🌪️ Release VortexMC open edition
+💻 Improve Web Development Skills
