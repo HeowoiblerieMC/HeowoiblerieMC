@@ -9,7 +9,7 @@
 
 💻 Tech stack
 
-"Especially I like Python🫶"
+"Especially I like Python"
 
 # 🎯 Current goals
 
