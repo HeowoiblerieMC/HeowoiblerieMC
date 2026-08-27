@@ -1,4 +1,4 @@
-## Hi there im Heowoiblerie, minecraft newbie engineer and gamer❤️🙋
+## Hi there im Heowoiblerie, minecraft server developer and gamer❤️🙋
 🚀 Projects
 
 🌪️ VortexMC network
