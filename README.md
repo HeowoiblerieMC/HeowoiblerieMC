@@ -1,17 +1,17 @@
 ## Hi there im Heowoiblerie, Minecraft server developer and gamer❤️🙋 And you know what? I am *student* learning about network☺️
-🚀 Projects
+# 🚀 Projects
 
 🌪️ VortexMC network
 
-🌐 Web Development (making hard)
+🌐 Web development (making hard)
 
-🐙 GitHub Projects
+🐙 GitHub projects
 
-💻 Tech Stack
+💻 Tech stack
 
 "Especially I like Python🫶"
 
-🎯 Current Goals
+# 🎯 Current goals
 
 🌪️ Release VortexMC open edition
 
