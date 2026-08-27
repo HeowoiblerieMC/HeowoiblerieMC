@@ -5,6 +5,8 @@
 
 🌐 Web development (making hard)
 
+📷 making ArchMC videos in YouTube
+
 🐙 GitHub projects
 
 💻 Tech stack
