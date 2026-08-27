@@ -15,4 +15,4 @@
 
 🌪️ Release VortexMC open edition
 
-💻 Improve Web Development Skills
+💻 Improve web development skills
