@@ -10,13 +10,9 @@
 💻 Tech Stack
 
 HTML
-
 CSS
-
 JavaScript
-
 Git
-
 Minecraft Server Management
 
 "Especially I like Python🫶"
