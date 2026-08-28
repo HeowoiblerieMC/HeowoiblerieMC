@@ -1,4 +1,4 @@
-## Hi there im Heowoiblerie, Minecraft server developer and gamer❤️🙋 And you know what? I am *student* learning about network☺️
+## Hi there im Heowoiblerie, Minecraft server developer and gamer❤️🙋
 # 🚀 Projects
 
 🌪️ VortexMC network
