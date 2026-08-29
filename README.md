@@ -5,7 +5,7 @@
 
 🌐 Web development (making hard)
 
-📷 creating ArchMC videos in YouTube
+📷 Creating ArchMC videos in YouTube
 
 here → https://m.youtube.com/@HeowoiblerieMC
 
