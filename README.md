@@ -13,8 +13,6 @@ here → https://m.youtube.com/@HeowoiblerieMC
 
 💻 Tech stack
 
-"Especially I like Python"
-
 # 🎯 Current goals
 
 🌪️ Release VortexMC open edition
