@@ -23,3 +23,6 @@
 🌪️ Release VortexMC open edition
 
 💻 Improve web development skills
+
+## 😳 👈YOU! if you thought my project or somethings interesting, follow and star :3
+**HAVE FUN :D**
