@@ -7,7 +7,7 @@
 
 📷 Creating ArchMC videos in YouTube
 
-🎮 Making brand new games. This is the BIGGEST project, driving car in Japanese town and road :3 (Nova Drive 2.0) **here👉 https://heowoibleriemc.github.io/driving-simulator/**
+🎮 Making brand new games. It's the BIGGEST project, driving car in Japanese town and road :3 (Nova Drive 2.0) **here👉 https://heowoibleriemc.github.io/driving-simulator/**
 
 🤖 Making easy AI (LearnixAI)
 **here👉 https://heowoibleriemc.github.io/learnixhelper/**
