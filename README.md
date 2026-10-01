@@ -12,7 +12,7 @@
 🤖 Making easy AI (LearnixAI)
 **here👉 https://heowoibleriemc.github.io/learnixhelper/**
 
-**📹📸here is my youtube👉 https://m.youtube.com/@HeowoiblerieMC**
+**📹📸here is my youtube channel👉 https://m.youtube.com/@HeowoiblerieMC**
 
 🐙 GitHub projects
 
