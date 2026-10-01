@@ -1,4 +1,4 @@
-## Hi there im Heowoiblerie, Minecraft server developer and gamer❤️🙋
+## Hi there im Heowoiblerie, Minecraft server developer, creator and gamer❤️🙋
 # 🚀 Projects
 
 🌪️ VortexMC network
