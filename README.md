@@ -7,6 +7,10 @@
 
 📷 Creating ArchMC videos in YouTube
 
+🎮 Making brand new games (Nova Drive 2.0)
+
+🤖 Making easy AI (LearnixAI)
+
 here → https://m.youtube.com/@HeowoiblerieMC
 
 🐙 GitHub projects
