@@ -1,6 +1,6 @@
 ## Hi there im Heowoiblerie, Minecraft server developer, creator and gamer❤️🙋
 
-my favorite languages are Python, HTML and Java. Especially, i really love Java💞
+my favorite languages are Python and Java. Especially, i really love Java💞
 # 🚀 Projects
 
 🌪️ VortexMC network
