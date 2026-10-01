@@ -11,7 +11,7 @@
 **here👉 https://heowoibleriemc.github.io/driving-simulator/**
 
 🤖 Making easy AI (LearnixAI)
-**here👉 **
+**here👉 https://heowoibleriemc.github.io/learnixhelper/**
 
 here → https://m.youtube.com/@HeowoiblerieMC
 
