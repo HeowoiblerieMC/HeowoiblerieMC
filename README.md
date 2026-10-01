@@ -24,5 +24,5 @@
 
 💻 Improve web development skills
 
-## 😳 👈YOU! if you thought my project or somethings interesting, follow and star :3
+## 😳 👈YOU! if you thought my project or somethings interesting, follow and star anytime :3
 **HAVE FUN :D**
