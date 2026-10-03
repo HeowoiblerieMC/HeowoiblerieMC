@@ -41,6 +41,7 @@ STATUS: Building something awesome...
 [![LearnixAI](https://img.shields.io/badge/OPEN-LEARNIX_AI-55aa33?style=for-the-badge)](https://heowoibleriemc.github.io/learnixhelper/)
 [![YouTube](https://img.shields.io/badge/WATCH-YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/@HeowoiblerieMC)
 [![Projects](https://img.shields.io/badge/EXPLORE-GITHUB_PROJECTS-24292f?style=for-the-badge&logo=github)](https://github.com/HeowoiblerieMC?tab=repositories)
+[![Prijects](https://img.shields.io/badge/EXPLORE-GITHUB_PROJECTS-24292f?style=for-the-badge&logo=github)](https://heowoibleriemc.github.io/plane-simulator/)
 
 </div>
 
