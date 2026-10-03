@@ -1,30 +1,81 @@
-## Hi there im Heowoiblerie, Minecraft server developer, creator and gamer❤️🙋
+<div align="center">
 
-my favorite languages are Python and Java. Especially, i really love Java💞
-# 🚀 Projects
+# ⛏️ HEOWOIBLERIE
 
-🌪️ VortexMC network
+### Minecraft Server Developer • Creator • Gamer
 
-🌐 Web development (making hard)
+`Building servers, websites, AI, videos, and brand-new games.`
 
-📷 Creating ArchMC videos in YouTube
+![Java](https://img.shields.io/badge/Java-Favorite-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-Server_Development-62b43a?style=for-the-badge)
 
-🎮 Creating brand new games!!! And now, I'm making plane simulator, I think you'll love it!!!! :3 wanna try it? :D? **here 👉👉 COMING SOON!**
+</div>
 
-🤖 Making easy AI (LearnixAI)
-**here👉 https://heowoibleriemc.github.io/learnixhelper/**
+---
 
-**📹📸 here is my youtube channel👉 https://m.youtube.com/@HeowoiblerieMC**
+## 🌱 About Me
 
-🐙 GitHub projects
+Hi there! I'm **Heowoiblerie**, a Minecraft server developer, creator, and gamer. ❤️🙋
 
-💻 Tech stack
+My favorite programming languages are **Java** and **Python**, but Java will always have a special place in my inventory. 💞
 
-# 🎯 Current goals
+```text
+PLAYER: Heowoiblerie
+CLASS: Server Developer
+MODE: Creative
+MAIN ITEM: Java
+STATUS: Building something awesome...
+```
 
-🌪️ Release VortexMC open edition
+## 🧭 Current Quests
 
-💻 Improve web development skills
+- 🌪️ Developing the **VortexMC Network**
+- 🌐 Improving my web development skills
+- 📹 Creating **ArchMC videos** for YouTube
+- ✈️ Building a brand-new **Plane Simulator**
+- 🤖 Developing **LearnixAI**, a simple AI project
 
-## 😳 👈YOU! if you thought my project or somethings interesting, follow and star anytime :3
-**HAVE FUN :D**
+<div align="center">
+
+[![LearnixAI](https://img.shields.io/badge/OPEN-LEARNIX_AI-55aa33?style=for-the-badge)](https://heowoibleriemc.github.io/learnixhelper/)
+[![YouTube](https://img.shields.io/badge/WATCH-YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/@HeowoiblerieMC)
+[![Projects](https://img.shields.io/badge/EXPLORE-GITHUB_PROJECTS-24292f?style=for-the-badge&logo=github)](https://github.com/HeowoiblerieMC?tab=repositories)
+
+</div>
+
+## ✈️ Featured Project
+
+### Plane Simulator
+
+A new browser-based 3D flight simulator featuring selectable aircraft and a JFK-inspired airport.
+
+```text
+WORLD GENERATION  [■■■□□□□□□□]
+STATUS            COMING SOON
+```
+
+**Think you will love it? Want to try it? Stay tuned! :D**
+
+## 🎯 Current Goals
+
+- [ ] Release **VortexMC Open Edition**
+- [ ] Improve my web development skills
+- [ ] Complete the first playable Plane Simulator build
+- [ ] Create more games, tools, and Minecraft projects
+
+---
+
+<div align="center">
+
+## 🏆 Achievement Available
+
+### `FOLLOWER AND STAR COLLECTOR`
+
+If one of my projects looks interesting, feel free to **follow me** and leave a **star**. ⭐
+
+### HAVE FUN! :D
+
+`< Keep mining. Keep crafting. Keep creating. />`
+
+</div>
