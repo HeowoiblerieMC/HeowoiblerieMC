@@ -68,12 +68,6 @@ STATUS            COMING SOON
 
 <div align="center">
 
-## 🏆 Achievement Available
-
-### `FOLLOWER AND STAR COLLECTOR`
-
-If one of my projects looks interesting, feel free to **follow me** and leave a **star**. ⭐
-
 ### HAVE FUN! :D
 
 `< Keep mining. Keep crafting. Keep creating. />`
