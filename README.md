@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛏️ HEOWOIBLERIE
+# ⛏️ HeowoiblerieMC
 
 ### Minecraft Server Developer • Creator • Gamer
 
