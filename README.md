@@ -9,7 +9,7 @@ my favorite languages are Python and Java. Especially, i really love Java💞
 
 📷 Creating ArchMC videos in YouTube
 
-🎮 Making brand new games. And now, I'm making plane simulator, I think you'll love it! :3 wanna try it? :D? **here 👉👉 COMING SOON!**
+🎮 Creating brand new games!!! And now, I'm making plane simulator, I think you'll love it! :3 wanna try it? :D? **here 👉👉 COMING SOON!**
 
 🤖 Making easy AI (LearnixAI)
 **here👉 https://heowoibleriemc.github.io/learnixhelper/**
