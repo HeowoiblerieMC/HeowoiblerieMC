@@ -52,7 +52,7 @@ STATUS: Building something awesome...
 A new browser-based 3D flight simulator featuring selectable aircraft and a JFK-inspired airport.
 
 ```text
-WORLD GENERATION  [■■■□□□□□□□]
+WORLD GENERATION  [■■■■□□□□□□]
 STATUS            COMING SOON
 ```
 
