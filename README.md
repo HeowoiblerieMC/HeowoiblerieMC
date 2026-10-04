@@ -58,19 +58,6 @@ STATUS            COMING SOON
 
 **Think you will love it? Want to try it? Stay tuned! :D**
 
-## 🎯 Current Goals
-
-- [ ] Release **VortexMC Open Edition**
-- [ ] Improve my web development skills
-- [ ] Complete the first playable Plane Simulator build
-- [ ] Create more games, tools, and Minecraft projects
-
----
-
 <div align="center">
 
-### HAVE FUN! :D
-
-`< Keep mining. Keep crafting. Keep creating. />`
-
-</div>
+### HAVE FUN! :3
