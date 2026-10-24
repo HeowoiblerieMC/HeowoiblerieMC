@@ -53,7 +53,7 @@ A new browser-based 3D flight simulator featuring selectable aircraft and a JFK-
 
 ```text
 WORLD GENERATION  [■■■■■■□□□□]
-STATUS            COMING SOON
+STATUS            AVAILABLE TO PLAY
 ```
 
 **Think you will love it? Want to try it? Stay tuned! :D**
