@@ -112,11 +112,6 @@ I create interactive web projects inspired by voxel games, sandbox worlds, drivi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HeowoiblerieMC&show_icons=true&hide_border=true&bg_color=06120B&title_color=43EF88&icon_color=43EF88&text_color=EFFFF4" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeowoiblerieMC&layout=compact&hide_border=true&bg_color=06120B&title_color=43EF88&text_color=EFFFF4" alt="Top languages">
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeowoiblerieMC&hide_border=true&background=06120B&ring=43EF88&fire=43EF88&currStreakLabel=43EF88&sideLabels=EFFFF4&dates=9CB9A5&currStreakNum=EFFFF4&sideNums=EFFFF4" alt="GitHub streak">
 
 </div>
