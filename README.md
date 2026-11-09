@@ -141,14 +141,6 @@ const developer = {
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeowoiblerieMC&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies">
-</p>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
@@ -159,8 +151,8 @@ const developer = {
 <a href="https://heowoibleriemc.github.io/nova-client/">
   <img src="https://img.shields.io/badge/Play-Nova%20Client-43EF88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=06120B" alt="Nova Client">
 </a>
-
-<br><br>
+<a href="https://youtube.com/HeowoiblerieMC">
+  <img src="https://img.shields.io/badge/YouTube-HeowoiblerieMC-43EF88?style=for-the-badge&logo=youtube&logoColor=red&labelColor=06120B" alt="YouTube">
 
 ### 🌟 Thanks for visiting my world.
 
