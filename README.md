@@ -54,8 +54,8 @@ I create interactive web projects inspired by voxel games, sandbox worlds, drivi
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚘 Nova Drive 2.0</h3>
-      <p>A detailed Three.js driving environment with roads, sidewalks, medians, crosswalks, vehicles, street trees, lamps, and a custom HUD.</p>
+      <h3> ✈️ Flight Simulator </h3>
+      <p>A detailed Three.js driving environment with roads, Aircrafts, Buildings, Airport, lights, street trees, lamps, and a custom HUD.</p>
       <p>
         <img src="https://img.shields.io/badge/Three.js-06120B?style=flat-square&logo=threedotjs&logoColor=43EF88" alt="Three.js">
         <img src="https://img.shields.io/badge/3D%20World-06120B?style=flat-square&logoColor=43EF88" alt="3D World">
@@ -72,7 +72,7 @@ I create interactive web projects inspired by voxel games, sandbox worlds, drivi
 ```text
 [██████████████░░░░░░] 70%  Nova Client
 [████████████░░░░░░░░] 60%  BedFight Training
-[██████████░░░░░░░░░░] 50%  Nova Drive 2.0
+[██████████░░░░░░░░░░] 50%  Flight Simulator
 [██████░░░░░░░░░░░░░░] 30%  New Experiments
 ```
 
@@ -82,7 +82,7 @@ I create interactive web projects inspired by voxel games, sandbox worlds, drivi
 - 🌉 Speed Bridge mechanics and block placement training
 - 🎮 Keyboard, mouse, and touch controls
 - 🧊 Original voxel textures and interfaces
-- 🚦 Traffic lights and road systems for Nova Drive 2.0
+- ✈️ Adding more aircrafts...
 - ⚡ Performance improvements for browsers and iPad
 
 ---
