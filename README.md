@@ -4,7 +4,7 @@
 
 # ⛏️ HeowoiblerieMC
 
-### Voxel worlds. Web experiments. Original game projects.
+### 👋 YOOO!! Welcome to HeowoiblerieMC's GitHub Labs!
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-BUILDING-43EF88?style=for-the-badge&labelColor=06120B" alt="Status">
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <strong>Building original browser games with JavaScript, Three.js, and way too many blocks.</strong>
+  <strong>Building original browser games with JavaScript, Three.js, and way too many blocks!</strong>
 </p>
 
 </div>
@@ -27,13 +27,13 @@ Player:     HeowoiblerieMC
 Class:      Student Developer
 Location:   Massachusetts, USA
 Specialty:  Browser Games and Voxel Worlds
-Current XP: Always Increasing
-Status:     Creating the Next Project
+Current XP: Always Increasing :)
+Status:     Creating the Next Project!
 ```
 
-I create interactive web projects inspired by voxel games, sandbox worlds, driving simulations, and competitive game modes. My goal is to turn ideas into playable experiences that run directly in the browser.
+I create interactive web projects inspired by voxel games, sandbox worlds, driving simulations, and competitive game modes. My goal is to turn ideas into playable experiences that run directly in the browser!
 
-> **The world is made of blocks. The future is made of code.**
+> **The world is made of blocks, and the future is made of code!**
 
 ---
 
@@ -43,7 +43,7 @@ I create interactive web projects inspired by voxel games, sandbox worlds, drivi
   <tr>
     <td width="50%" valign="top">
       <h3>✦ Nova Client</h3>
-      <p>A browser-based voxel game project focused on responsive controls, block interaction, custom interfaces, and competitive training modes.</p>
+      <p>A browser-based voxel game project focused on responsive controls, block interaction, custom interfaces, and competitive training modes!</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-06120B?style=flat-square&logo=javascript&logoColor=43EF88" alt="JavaScript">
         <img src="https://img.shields.io/badge/Three.js-06120B?style=flat-square&logo=threedotjs&logoColor=43EF88" alt="Three.js">
@@ -70,10 +70,10 @@ I create interactive web projects inspired by voxel games, sandbox worlds, drivi
 ## ⚔️ Current Quest
 
 ```text
-[██████████████░░░░░░] 70%  Nova Client
-[████████████░░░░░░░░] 60%  BedFight Training
+[██████████████░░░░░░] 70%  Nova Client (Bedfight Practice Client)
+[████████████░░░░░░░░] 60%  BedFight Training (Nova Client)
 [██████████░░░░░░░░░░] 50%  Flight Simulator
-[██████░░░░░░░░░░░░░░] 30%  New Experiments
+[██████░░░░░░░░░░░░░░] 30%  New Experiments (smth more special)
 ```
 
 ### Now Building
@@ -134,14 +134,15 @@ const developer = {
 };
 ```
 
-- Build projects that can be played, not only viewed
-- Make controls feel responsive on both desktop and touch devices
-- Use original designs while keeping the familiar voxel atmosphere
-- Improve one system at a time until the whole experience feels complete
+- Build projects that can be played, not only viewed!
+- Make controls feel responsive on both desktop and touch devices!
+- Use original designs while keeping the familiar voxel atmosphere!
+- Improve one system at a time until the whole experience feels complete!!
 
 ---
 
 ## 🔗 Connect
+**If you can, subscribe and watch my vids in YouTube😭**
 
 <div align="center">
 
@@ -154,7 +155,7 @@ const developer = {
 <a href="https://youtube.com/HeowoiblerieMC">
   <img src="https://img.shields.io/badge/YouTube-HeowoiblerieMC-43EF88?style=for-the-badge&logo=youtube&logoColor=red&labelColor=06120B" alt="YouTube">
 
-### 🌟 Thanks for visiting my world.
+### 🌟 Thanks for visiting my world!
 
 <sub>Original voxel banner created for this profile. This profile is not affiliated with Mojang Studios or Microsoft.</sub>
 
