@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="HeowoiblerieMC voxel banner" width="100%">
+<img src="./banner.PNG" alt="HeowoiblerieMC voxel banner" width="100%">
 
 # ⛏️ HeowoiblerieMC
 
