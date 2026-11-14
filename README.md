@@ -2,6 +2,7 @@
 
 <img src="./banner.PNG" alt="HeowoiblerieMC voxel banner" width="100%">
 
+**☝️Took February 18th, 2026 with Joodyxn and men17777_ in ArchMC❤️**
 # ⛏️ HeowoiblerieMC
 
 ### 👋 YOOO!! Welcome to HeowoiblerieMC's GitHub Labs!
