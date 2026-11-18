@@ -26,7 +26,6 @@
 ```text
 Player:     HeowoiblerieMC
 Class:      Student Developer
-Location:   Massachusetts, USA
 Specialty:  Browser Games and Voxel Worlds
 Current XP: Always Increasing :)
 Status:     Creating the Next Project!
